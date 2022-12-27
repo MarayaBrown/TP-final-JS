@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "producto": "Juego de mesa y sillas",
+        "descripcion": "Mesa plegable y 4 sillas para jardín e interior",
+        "detalles": "Mesa plegable de 70x70x75 mas 4 sillas plegablesde pino crudo ideales para jardín, interiores o bares.",
+        "img": "./data/mesas-sillas.webp",
+        "precio": 18000
+        
+    },
+    {
+        "id": 2,
+        "producto": "Kit de jardineria",
+        "descripcion": "8 piesas tramontina: Pala, rastrillo y cinturon",
+        "detalles": "Incluye una cuchara ancha, 1 rastrillo de 3 dientes, 1 horquilla de 4 dientes, 1 cuchara ancha plastica, 1 hirquilla de 3 dientes, 1 tijera de podar, 1 par de guantes y 1 cinturon",
+        "img": "./data/kit-jardineria.webp",
+        "precio": 9200
+        
+    },
+    {
+        "id": 3,
+        "producto": "Regador aspersor",
+        "descripcion": "Regador aspersor de impulso metálico con estaca.",
+        "detalles": "Conexión con acople rápido de 1/2''.Giro completo o particionado. Radio de riego de 6 a 16 metros",
+        "img": "./data/regador.webp",
+        "precio": 4400
+        
+    },
+    {
+        "id": 4,
+        "producto": "Sombrilla de jardín",
+        "descripcion": "Sombrilla parasol outdoor de 3 metros, blanco con manivela.",
+        "detalles": "Acero liviano con recubrimiento de pintura epoxi. Manivela para su comodidad en la apertura. Base metálica incluida.",
+        "img": "./data/sombrilla.webp",
+        "precio": 31000
+        
+    }
+]
+

@@ -1,0 +1,58 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url('./data/pasto.jpg') ;
+}
+/* #comidas{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+} */
+h1, p {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    padding: 12px;
+    margin: 10px;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+img {
+    padding: 12px;
+    border: 1px solid green;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.cardProduct{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+    padding: 12px;
+    border: 1px solid green;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.cardProduct button {
+    width: 20%;
+    border-radius: 30px;
+
+
+}
+
+
